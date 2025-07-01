@@ -35,4 +35,14 @@ return [
         ],
     ],
 
+    'factiliza' => [
+        'base_url' => env('FACTILIZA_API_URL'),
+        'token' => env('FACTILIZA_API_TOKEN'),
+        'endpoints' => [
+            'dni' => '/dni/info/',
+            'ruc' => '/ruc/info/'
+        ]
+    ],
+
+
 ];
