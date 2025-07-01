@@ -2,7 +2,7 @@
 @section('title', 'Consultar DNI/RUC')
 
 @section('content')
-<div class="max-w-md mx-auto bg-white rounded-lg shadow-md p-6">
+<div class=" w-[400px]  bg-white rounded-lg shadow-md p-6" >
     <h1 class="text-2xl font-bold text-center mb-6">Consultor de DNI/RUC</h1>
     
     <form ">
@@ -22,7 +22,7 @@
                    placeholder="Ingrese el número" required>
         </div>
         
-        <button type="button" class="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg">
+        <button type="submit" class="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-lg cursor-pointer">
             Consultar
         </button>
     </form>

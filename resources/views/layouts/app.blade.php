@@ -7,10 +7,10 @@
     <title>Consultor DNI/RUC - @yield('title')</title>
     @vite('resources/css/app.css')
 </head>
-<body class="bg-amber-300">
-    <div class="container mx-auto px-4 py-8">
+<body class="bg-[#dfdff0]">
+    <main class=" px-5 h-screen flex justify-center items-center ">
         @yield('content')
-    </div>
+    </main>
     
 </body>
 </html>
