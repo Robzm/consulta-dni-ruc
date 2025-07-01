@@ -2,10 +2,10 @@
 @section('title', 'Consultar DNI/RUC')
 
 @section('content')
-<div class=" w-[400px]  bg-white rounded-lg shadow-md p-6" >
+<div class=" w-[400px]  bg-white rounded-lg shadow-md p-6 my-[200px]" >
     <h1 class="text-2xl font-bold text-center mb-6">Consultor de DNI/RUC</h1>
     
-    <form ">
+    <form action="{{ route('consulta') }}" method="POST">
         @csrf
         <div class="mb-4">
             <label for="tipo" class="block text-gray-700 mb-2">Tipo de documento:</label>
