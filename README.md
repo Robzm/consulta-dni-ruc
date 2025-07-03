@@ -10,13 +10,17 @@ Aplicación web para consultar DNI/RUC usando la API de Factiliza.
 
 ## 📸 Capturas de Pantalla
 
-### Formulario de Consulta
-![Formulario](https://i.ibb.co/Fq33JzsF/Captura-de-pantalla-2025-07-03-184355.png)  
-*Interfaz de búsqueda*
+<h3>Formulario de Consulta</h3>
+<img src="https://i.ibb.co/Fq33JzsF/Captura-de-pantalla-2025-07-03-184355.png" 
+     alt="Formulario" 
+     style="max-width: 400px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<p><em>Interfaz de búsqueda</em></p>
 
-### Resultados DNI
-![Resultado DNI](https://i.ibb.co/Lz8Q3Cyh/Captura-de-pantalla-2025-07-03-184334.png)  
-*Ejemplo de respuesta*
+<h3>Resultados DNI</h3>
+<img src="https://i.ibb.co/Lz8Q3Cyh/Captura-de-pantalla-2025-07-03-184334.png" 
+     alt="Resultado DNI" 
+     style="max-width: 400px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<p><em>interfaz de respuesta</em></p>
 
 
 ## Configuracion
